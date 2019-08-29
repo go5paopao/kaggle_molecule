@@ -24,3 +24,5 @@ script_hinokki/
 gnn_docker.sh
 rdkit_docker.sh
 Dockerfile
+optuna_result/
+script_lgb/optuna_result/
