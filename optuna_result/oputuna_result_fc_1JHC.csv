@@ -1,0 +1,7 @@
+bagging_fraction,0.9005544470472131
+feature_fraction,0.8072489631145157
+lambda_l1,0.29389764037653165
+lambda_l2,0.5170057847148826
+max_depth,12
+min_data_in_leaf,37
+num_leaves_ratio,0.8294938727079583

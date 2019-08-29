@@ -1,0 +1,10 @@
+mkdir -p feature
+mkdir -p feature/train
+mkdir -p feature/test
+mkdir -p input
+mkdir -p external
+mkdir -p data
+mkdir -p pickle
+mkdir -p log
+mkdir -p submit
+mkdir -p predict
